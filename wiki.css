@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'burning-wrath';
+    src: url('https://cdn.rawgit.com/lorikrell/conquest/blob/main/b_wrath-webfont.woff2') format('woff2'),
+         url('https://cdn.rawgit.com/lorikrell/conquest/blob/main/b_wrath-webfont.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'lifecraft';
+    src: url('https://cdn.rawgit.com/lorikrell/conquest/blob/main/LifeCraft_Font.ttf') format('truetype'),
+         url('https://cdn.rawgit.com/lorikrell/conquest/blob/main/LifeCraft_Font.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'friz';
+    src: url('https://cdn.rawgit.com/lorikrell/conquest/blob/main/friz-quadrata-tt.ttf') format('truetype');
+    src: url('https://cdn.rawgit.com/lorikrell/conquest/blob/main/friz-quadrata.eot') format('eot');
+}
